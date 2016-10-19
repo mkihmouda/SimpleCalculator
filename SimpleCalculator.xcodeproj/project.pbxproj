@@ -15,6 +15,7 @@
 		04FDCC0B1DB770AB0063ECEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FDCC091DB770AB0063ECEC /* LaunchScreen.storyboard */; };
 		04FDCC161DB770AC0063ECEC /* SimpleCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FDCC151DB770AC0063ECEC /* SimpleCalculatorTests.swift */; };
 		04FDCC211DB770AC0063ECEC /* SimpleCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FDCC201DB770AC0063ECEC /* SimpleCalculatorUITests.swift */; };
+		04FDCC6C1DB7A10C0063ECEC /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 04FDCC6B1DB7A10C0063ECEC /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		04FDCC1C1DB770AC0063ECEC /* SimpleCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04FDCC201DB770AC0063ECEC /* SimpleCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCalculatorUITests.swift; sourceTree = "<group>"; };
 		04FDCC221DB770AC0063ECEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04FDCC6B1DB7A10C0063ECEC /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				04FDCC091DB770AB0063ECEC /* LaunchScreen.storyboard */,
 				04FDCC0C1DB770AB0063ECEC /* Info.plist */,
 				04FDCC041DB770AB0063ECEC /* SimpleCalculator.xcdatamodeld */,
+				04FDCC6B1DB7A10C0063ECEC /* btn.wav */,
 			);
 			path = SimpleCalculator;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				04FDCC0B1DB770AB0063ECEC /* LaunchScreen.storyboard in Resources */,
 				04FDCC081DB770AB0063ECEC /* Assets.xcassets in Resources */,
 				04FDCC031DB770AB0063ECEC /* Main.storyboard in Resources */,
+				04FDCC6C1DB7A10C0063ECEC /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,6 +495,7 @@
 				04FDCC271DB770AC0063ECEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04FDCC281DB770AC0063ECEC /* Build configuration list for PBXNativeTarget "SimpleCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +504,7 @@
 				04FDCC2A1DB770AC0063ECEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04FDCC2B1DB770AC0063ECEC /* Build configuration list for PBXNativeTarget "SimpleCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +513,7 @@
 				04FDCC2D1DB770AC0063ECEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
