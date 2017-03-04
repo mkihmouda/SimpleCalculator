@@ -10,7 +10,7 @@ Simple Calculator
 
 
   <br><br>  <br><br>
-  <img src="http://katikids.com/calculator.png" height="620" width="400">
+  <img src="http://appsgeeks.de/calculator.png" height="620" width="400">
  
   </p>
   
